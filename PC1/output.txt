@@ -1,0 +1,6 @@
+Time=0  | Reset=1 | Enable=0 | Next_PC=  0 | PC=  0
+Time=10 | Reset=0 | Enable=1 | Next_PC= 10 | PC= 10
+Time=20 | Reset=0 | Enable=1 | Next_PC= 20 | PC= 20
+Time=30 | Reset=0 | Enable=1 | Next_PC= 30 | PC= 30
+Time=40 | Reset=0 | Enable=0 | Next_PC= 40 | PC= 30
+Time=50 | Reset=0 | Enable=1 | Next_PC= 50 | PC= 50
